@@ -163,6 +163,9 @@ img.platter {
   width: 100%;
   margin-top: 40px;
 }
+img.chef-img{
+  margin-left: 100px;
+}
 /*section (cook and platter) end*/
 /*section form start*/
 .cn-cus h2{
